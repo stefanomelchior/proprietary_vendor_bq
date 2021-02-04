@@ -906,15 +906,15 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
-    QtiTelephonyService \
-    datastatusnotification \
-    embms \
-    uceShimService \
-    CNEService \
-    WfdService \
-    com.qualcomm.location \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    TimeService \
-    WfdCommon
+    #QtiTelephonyService \
+    #datastatusnotification \
+    #embms \
+    #uceShimService \
+    #CNEService \
+    #WfdService \
+    #com.qualcomm.location \
+    #dpmserviceapp \
+    #ims \
+    #qcrilmsgtunnel \
+    #TimeService \
+    #WfdCommon

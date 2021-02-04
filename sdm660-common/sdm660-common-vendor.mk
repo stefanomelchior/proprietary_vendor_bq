@@ -1113,13 +1113,13 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libgpustats \
     libsdm-disp-vndapis \
-    QtiTelephonyService \
-    datastatusnotification \
-    embms \
-    uceShimService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    TimeService \
-    aptxals
+    #QtiTelephonyService \
+    #datastatusnotification \
+    #embms \
+    #uceShimService \
+    #dpmserviceapp \
+    #ims \
+    #qcrilmsgtunnel \
+    #PowerOffAlarm \
+    #TimeService \
+    #aptxals
